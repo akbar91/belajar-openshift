@@ -94,7 +94,7 @@
                 </tr>
                 </c:forEach>
             </tbody>
-        </table>
+      </table>
 
         <footer class="footer">
         <p>&copy; <a href="akbarfachriansyah.com">Akbar Fachriansyah</a> 2015</p>

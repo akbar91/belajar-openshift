@@ -10,9 +10,9 @@ import com.fachri.akbar.belajar.Todo;
 public class TodoDao {
     private static final String OPENSHIFT_DB_HOST = "OPENSHIFT_MYSQL_DB_HOST";
     private static final String OPENSHIFT_DB_PORT = "OPENSHIFT_MYSQL_DB_PORT";
-    private static final String OPENSHIFT_DB_NAME = "aplikasitodo";
-    private static final String OPENSHIFT_DB_USERNAME = "admin3KBMI8e";
-    private static final String OPENSHIFT_DB_PASSWORD = "gA_kt6b2LRVM";
+    private static final String OPENSHIFT_DB_NAME = "webapp";
+    private static final String OPENSHIFT_DB_USERNAME = "admin93yZYRq";
+    private static final String OPENSHIFT_DB_PASSWORD = "yvghfpGmY1s8";
 
     private Connection koneksiDatabase;
 
