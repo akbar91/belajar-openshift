@@ -82,7 +82,7 @@
       <table class="table table-striped table-hover table-condensed table-bordered">
             <thead>
                 <tr>
-                    <th>&nbsp;</th>
+                    <th>Status</th>
                     <th>Pekerjaan</th>
                 </tr>
             </thead>
